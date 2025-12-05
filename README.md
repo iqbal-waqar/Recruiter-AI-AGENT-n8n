@@ -111,22 +111,6 @@ Modify the system prompt in *Recruiter AI Agent* to match your hiring criteria.
 
 ---
 
-## 🧰 Troubleshooting
-
-❗ **Model output doesn’t match schema**  
-- Ensure Structured Output Parser schema matches AI output exactly  
-- PDF extraction may produce messy text — consider cleaning it  
-
-🔐 **Google Drive access issues**  
-- Re-authenticate credentials  
-- Ensure the workflow has write access  
-
-⚠️ **Gemini errors**  
-- Simplify the prompt  
-- Increase model temperature or switch model version  
-
----
-
 ## 🏆 Credits
 
 Built using:  
